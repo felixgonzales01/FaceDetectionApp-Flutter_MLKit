@@ -1,4 +1,4 @@
-# Face Detection App
+# Face Detection App with Google's ML Kit
 
 Powered by Flutter and Google's ML Kit, offers a streamlined and efficient way to detect faces in images. Leveraging the power of machine learning, this app provides users with the ability to identify facial features in real-time. Whether it's for security purposes, accessibility features, or simply to catalog photos, this app makes face detection straightforward and accessible.
 
